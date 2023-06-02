@@ -61,7 +61,12 @@ flutter_bloc_boilerplate/
 - `video_player`: <a target="_blank" href="https://pub.dev/packages/video_player">https://pub.dev/packages/video_player</a>
 - `connectivity_plus`: <a target="_blank" href="https://pub.dev/packages/connectivity_plus">https://pub.dev/packages/connectivity_plus</a>
 
- 
+## API
+- go to `https://api.jikan.moe/v4`
+
+ ```dart
+const String url = 'https://api.jikan.moe/v4';
+```
 
 ## Before run project, execute commands:
 - `flutter clean`
