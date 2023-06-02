@@ -1,0 +1,75 @@
+name: anime_app
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_bloc: ^8.0.1
+  equatable: ^2.0.3
+  flutter_svg: ^1.1.6
+  shared_preferences: ^2.0.15
+  fluttertoast: ^8.1.2
+  html: ^0.15.1
+  sqflite: ^2.0.3+1
+  path_provider: ^2.0.11
+  dio:
+  lottie: ^1.4.2
+  readmore: ^2.2.0
+  translator: ^0.1.7
+  youtube_player_flutter: ^8.1.1
+  image_picker: ^0.8.6+1
+  url_launcher: ^6.1.8
+  video_player: ^2.5.1
+  connectivity_plus: ^2.3.9
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+# assets
+flutter:
+  assets:
+   - assets/
+   - assets/json/
+   - assets/icon/
+
+# fonts
+  fonts:
+    - family: sans
+      fonts:
+        - asset: assets/fonts/sans-light.ttf
+        - asset: assets/fonts/sans-bold.ttf
+
+    - family: ios-1
+      fonts:
+        - asset: assets/fonts/fontone.ttf
+
+    - family: ios-2
+      fonts:
+        - asset: assets/fonts/fonttow.ttf
+
+    - family: ios-3
+      fonts:
+        - asset: assets/fonts/fontthree.otf
+
+  uses-material-design: true
+
+
