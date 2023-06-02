@@ -1,6 +1,10 @@
 ## A Flutter Anime app  
 ![Banner](https://github.com/moatasem-alhilali/anime-app/blob/main/screenshots/logo.jpg)
 
+![visitors](https://visitor-badge.glitch.me/badge?right_color=teal&page_id=vellt/Movies-App) 
+![Web 1280 – 1]( https://img.shields.io/badge/made%20with-flutter-blue?style=flat)
+[![License](https://img.shields.io/badge/license-MIT-orange)](./LICENSE)
+![Web 1280 – 1]( https://img.shields.io/badge/-open%20source-wheat)
 ## Operating Principle
 
  The app sends requests and receives responses from the themoviedb API. <br> To learn more about `APIs` and the `Multitier architecture` click <a target="_blank" href="https://en.wikipedia.org/wiki/Multitier_architecture#Web_development_usage">here</a>.
